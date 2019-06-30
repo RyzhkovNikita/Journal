@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Журнал</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="journal">Журнал</string>
+    <string name="addStud">Добавить студента</string>
+    <string name="addPare">Добавить пару</string>
+    <string name="add">Добавить</string>
+    <string name="addPareName">Название пары…</string>
+    <string name="addVisit">Добавить посещение</string>
+    <string name="Surename">Фамилия</string>
+    <string name="Delete">Удалить</string>
+    <string name="edit_teacher_name">Имя препода…</string>
+    <string name="information">Информация</string>
+    <string name="student">Студент</string>
+    <string name="lecSemMissed">лек/сем пропущено</string>
+    <string name="parePercentMissed">% пропущенных лек/сем</string>
+    <string name="labMissed">Лаб пропущено</string>
+    <string name="planPercent">% вып. уч. плана</string>
+    <string name="averageByGroup">Среднее по группе</string>
+</resources>
